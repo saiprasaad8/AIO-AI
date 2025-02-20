@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+# You can add additional analyzer options here if needed
+# analyzer:
+#   exclude:
+#     - "**/*.g.dart"
+#   strong-mode:
+#     implicit-casts: false
